@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "Hqzw8KUJJjJ9LKsrvfa93xHFpvMpGBhnbiJYEoGPbcf4"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_igYr0KwlFoEw7rpdaDn9O7QZ03wzcHduiur",
+  "serviceFee": 1,
+  "currencyOption": "USDC",
+  "name": "ZaharaMa",
+  "logo": "https://collections.mirrorworld.fun/1677759376277-death-the-kid-soul-eater-8790-2560x1600.jpg"
 }
