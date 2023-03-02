@@ -1,12 +1,12 @@
 {
-    "name": "Zahra",
+    "name": "Zahra#01",
     "symbol": "ZHRH",
-    "description": "Smart Platform by Mirror World offers multi-chain social authentication, MPC wallet solutions, and in-app marketplace solutions, all with 0 upfront cost.",
+    "description": "Zahara Annak",
     "image": "https://metadata-assets.mirrorworld.fun/sdk/images/mw_logo.png",
     "seller_fee_basis_points": 425,
     "collection": {
-        "name": "Zahra",
-        "family": "Smart Platform by Mirror World"
+        "name": "Zahra#01",
+        "family": "Zahra#01"
     },
     "attributes": [
         {
