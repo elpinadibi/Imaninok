@@ -1,12 +1,12 @@
 {
-    "name": "Zahra#01",
+    "name": "Zahra",
     "symbol": "ZHRH",
     "description": "Zahara Annak",
     "image": "https://metadata-assets.mirrorworld.fun/sdk/images/mw_logo.png",
     "seller_fee_basis_points": 425,
     "collection": {
-        "name": "Zahra#01",
-        "family": "Zahra#01"
+        "name": "Zahra",
+        "family": "Zahra"
     },
     "attributes": [
         {
