@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Hqzw8KUJJjJ9LKsrvfa93xHFpvMpGBhnbiJYEoGPbcf4"
+    "DV5BcGeUjKE23drvupvHV4vM58WdN9QE4pYo91vtrMxE"
   ],
   "network": "devnet",
-  "xApiKey": "mw_igYr0KwlFoEw7rpdaDn9O7QZ03wzcHduiur",
-  "serviceFee": 1,
+  "xApiKey": "mw_4OZW7y3U8FzvElC3zSmMXhogZWLw4v7NDus",
+  "serviceFee": 1.33,
   "currencyOption": "USDC",
-  "name": "ZaharaMa",
-  "logo": "https://collections.mirrorworld.fun/1677759376277-death-the-kid-soul-eater-8790-2560x1600.jpg"
+  "name": "JennyPlace",
+  "logo": "https://collections.mirrorworld.fun/1678155469116-KE81Q4n.png"
 }
