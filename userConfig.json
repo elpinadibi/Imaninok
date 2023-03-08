@@ -1,11 +1,11 @@
 {
   "collections": [
-    "F7UGgqKzsjW3caCU8Pyb8pRcynYZXVe5tuAHSHF2AVf8"
+    "HX4K1vyX4L5iRK3pdT4oE2zT1M4gXGz3YbPVuJpzr191"
   ],
   "network": "devnet",
-  "xApiKey": "mw_Xr68mrzrsEhidVbb8dE7zef2tLUFF1RyDdT",
-  "serviceFee": 3,
-  "currencyOption": "USDC",
-  "name": "faymarekt",
-  "logo": "https://collections.mirrorworld.fun/1678241119961-IMG20230205072757.jpg"
+  "xApiKey": "mw_9wokejofxpAV36q9G6E9KhfSey2N2EZzROs",
+  "serviceFee": 2,
+  "currencyOption": "SOL",
+  "name": "iMarketNFT",
+  "logo": "https://collections.mirrorworld.fun/1678270776623-nEtxIM0-onepiece-wallpaper.jpg"
 }
